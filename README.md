@@ -8,6 +8,26 @@
 
 ---
 
+## ⚡ Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,ts,js,swift,linux,docker,git,github,aws,azure,terraform&perline=6"/>
+
+</div>
+
+---
+
+## 📈 Contributions
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=vb-goncalo&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA"/>
+
+</div>
+
+---
+
 ## 🛡️ VB SYSTEM
 
 ```bash
@@ -57,16 +77,6 @@ Today I study **Network and Computer Systems Engineering** with a focus on **cyb
 My goal is to build a solid foundation in **cloud security, infrastructure as code and network defense**, and to bring that security mindset to everything I build.
 
 > "Build it, break it, harden it."
-
----
-
-## ⚡ Tech stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,bash,ts,js,swift,linux,docker,git,github,aws,azure,terraform&perline=6"/>
-
-</div>
 
 ---
 
