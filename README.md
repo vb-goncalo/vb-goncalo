@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img width="100%" alt="GitHub contribution graph" src="https://ghchart.rshah.org/3b82f6/vb-goncalo"/>
+<img width="100%" alt="GitHub contribution graph" src="assets/contributions.svg"/>
 
 </div>
 
