@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=vb-goncalo&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA"/>
+<img width="100%" alt="GitHub contribution graph" src="https://ghchart.rshah.org/3b82f6/vb-goncalo"/>
 
 </div>
 
