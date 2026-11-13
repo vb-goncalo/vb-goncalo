@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,bash,ts,js,swift,linux,docker,git,github,aws,azure,terraform&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,bash,ts,js,swift,linux,docker,git,github,aws,azure,terraform&perline=12"/>
 
 <br/><br/>
 
