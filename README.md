@@ -8,4 +8,8 @@
 
 <img src="https://skillicons.dev/icons?i=python,bash,ts,js,swift,linux,docker,git,github,aws,azure,terraform&perline=6"/>
 
+<br/><br/>
+
+<a href="https://github.com/vb-goncalo/vb-goncalo/blob/main/ABOUT.md"><img src="https://img.shields.io/badge/More%20about%20me%20%E2%86%92-3b82f6?style=for-the-badge"/></a>
+
 </div>
